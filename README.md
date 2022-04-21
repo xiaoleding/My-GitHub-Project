@@ -1,5 +1,5 @@
 # My-GitHub-Project
-This is a test file.
+这是一个测试文件
 
 #Test
 To test if it is uploaded to the GitHub.
